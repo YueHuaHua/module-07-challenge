@@ -41,7 +41,7 @@ $("#currentDay").text(moment().format("dddd, Do MMMM YYYY"))
 </br>
 
 Application view:
-![Current Day Image](./assets/img/readme-02-current-day.JPG)
+<img src="./assets/img/readme-02-current-day.JPG" alt="Current Day Image" style="width: 930px">
 
 </br>
 
@@ -122,8 +122,8 @@ Application view of schedule:
 
 </br>
 
-Local storage:
-<img src="./assets/img/readme-06-local-storage.JPG" alt="Local Storage" style="width: 640px">
+Local storage view:
+<img src="./assets/img/readme-06-local-storage.JPG" alt="Local Storage" style="width: 930px">
 
 </br>
 
